@@ -1,10 +1,13 @@
 # Duniter button
 
-![Ğ1 button](duniter_button.svg)
+![Ğ1 button](https://raw.github.com/duniter/duniter_button/master/duniter_button.svg)
 
 ## URI
 
-`duniter://currency_name:public_key`
+```bash
+duniter://currency_name:public_key
+```
+
 This URI could open Duniter wallets like Cesium or Sakia.
 
 ## Install on my website
@@ -12,7 +15,7 @@ This URI could open Duniter wallets like Cesium or Sakia.
 - Retrieve the image:
 
 ```bash
-wget https://raw.githubusercontent.com/duniter/duniter-button/master/duniter_button.svg
+wget https://raw.githubusercontent.com/duniter/duniter_button/master/duniter_button.svg
 ```
 
 - Add following line on your website replacing _currency_name_, _public_key_ and _path/to/_ arguments:
