@@ -1,6 +1,6 @@
 # Duniter button
 
-![Ğ1 button](https://raw.github.com/duniter/duniter_button/master/duniter_button.svg)
+![Ğ1 button](https://cdn.rawgit.com/duniter/duniter_button/e9c04159/duniter_button.svg)
 
 ## URI
 
