@@ -1,6 +1,6 @@
 # Duniter button
 
-![Ğ1 button](https://cdn.rawgit.com/duniter/duniter_button/e9c04159/duniter_button.svg)
+[![Ğ1 button](https://cdn.rawgit.com/duniter/duniter_button/e9c04159/duniter_button.svg)](https://g1.duniter.fr/#/app/wot/GfKERHnJTYzKhKUma5h1uWhetbA8yHKymhVH2raf2aCP/Moul)
 
 ## URI
 
@@ -19,6 +19,13 @@ wget https://raw.githubusercontent.com/duniter/duniter_button/master/duniter_but
 ```
 
 - Add following line on your website replacing _currency_name_, _public_key_ and _path/to/_ arguments:
+ - With Cesium link:
+
+```html
+<a href="https://g1.duniter.fr/#/app/wot/public_key/identity"><img src="path/to/duniter_button.svg" /></a>
+```
+
+ - With URI:
 
 ```html
 <a href="duniter://currency_name:public_key"><img src="path/to/duniter_button.svg" /></a>
